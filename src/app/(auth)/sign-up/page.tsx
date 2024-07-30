@@ -1,7 +1,8 @@
+import SignUpForm from "@/components/form/SignUpForm"
 
 const page = () => {
     return (
-      <div>Sign Up</div>
+      <div><SignUpForm></SignUpForm></div>
     )
   }
   
