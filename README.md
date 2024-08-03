@@ -1,1 +1,1 @@
-Đây là Self Study Về Nextjs , Shadcn , Bun và Mongodb
+Đây là Self Study Về Nextjs , Shadcn 
